@@ -2,7 +2,7 @@ import requests # type: ignore
 import threading
 
 # URL endpoint login
-url = "https://www.tokopedia.com"
+url = "https://sso.esaunggul.ac.id/login"
 
 # Data login
 data = {
